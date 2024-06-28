@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asshleygozar
- I will update this later with pretty style✌️
+ I will update this later with much prettier style✌️
 
 <!---
 asshleygozar/asshleygozar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
