@@ -1,5 +1,5 @@
-# ☀️ Asshley Gozar
-**`Information Technology Student (Mobile and Web Applications)`**
+# Asshley Gozar
+**`Building mobile and web applications`**
 
 ### Languages and Tools
 
