@@ -8,11 +8,11 @@
 ## Projects
 
 ### Front-End Projects
-- [![To-do list](https://github.com/asshleygozar/todo-list)]
-- [![CV Builder](https://github.com/asshleygozar/cv-builder)]
+- [To-do list](https://github.com/asshleygozar/todo-list)
+- [CV builder](https://github.com/asshleygozar/cv-builder)
 
 ### Back-End Projects
-- [![System task manager](https://github.com/asshleygozar/system-task-manager)]
+- [System task manager](https://github.com/asshleygozar/system-task-manager)
           
           
           
