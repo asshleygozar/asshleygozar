@@ -1,19 +1,15 @@
-# Asshley Gozar
-**`Building software applications`**
+# Junior Software Engineer
 
-## Languages and Tools
+## Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,nodejs,python,postgres,mongodb,git,github,aws,docker)](https://skillicons.dev)
+### Front End
 
-          
-          
-          
-                    
-          
-          
-          
-                    
+[![Front End Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
-          
+### Back End
 
-          
+[![Back End Tools](https://skillicons.dev/icons?i=nextjs,expressjs,nodejs,python,postgres)](https://skillicons.dev)
+
+### Others
+
+[![Other tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
