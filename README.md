@@ -4,4 +4,4 @@
 
 ## Technology Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=js,ts,react,talwind,nextjs,expressjs,nodejs,python,postgres,prisma,git,github,notion)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,expressjs,nodejs,python,postgres,prisma,git,github,notion)](https://skillicons.dev)
